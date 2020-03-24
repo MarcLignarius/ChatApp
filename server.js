@@ -13,6 +13,8 @@ app.use(express.static(path.join(__dirname, "public")));
 // Run when client connects
 io.on("connection", socket => {
   console.log("New web socket connection...");
+
+  socket.emit('message', 'Welcome to Slack That');
 });
 
 const PORT = 3000 || process.env.PORT;
