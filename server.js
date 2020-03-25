@@ -14,7 +14,7 @@ app.use(express.static(path.join(__dirname, "public")));
 io.on('connection', socket => {
 
   // Welcome current user
-  socket.emit('message', 'Welcome to Slack That');
+  socket.emit('message', 'Welcome to SlackDat');
 
   // Broadcast when a user connects
   socket.broadcast.emit('message', 'A user has joined the chat');
