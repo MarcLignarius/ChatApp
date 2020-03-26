@@ -19,13 +19,9 @@
 
 ## Description
 
-This application allows users to login to different chat rooms, meet other users and chat with them. This application was built following Traversy Media's "Realtime Chat With Users & Rooms - Socket.io, Node & Express": https://www.youtube.com/watch?v=jD7FnbI76Hg&t=
+This application allows users to login to different chat rooms, meet other users and chat with them. This application was built following Traversy Media's "Realtime Chat With Users & Rooms": https://www.youtube.com/watch?v=jD7FnbI76Hg&t=
 
 ## Technologies Used
-
-"express": "^4.17.1",
-    "moment": "^2.24.0",
-    "socket.io": "^2.3.0"
 
   * _Express 4.17.1_
   * _Moment: 2.24.0_
