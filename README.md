@@ -36,7 +36,7 @@ This application allows users to login to different chat rooms, meet other users
 * `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 * `npm run dev` to launch the app which will be hosted at  http://localhost:3000/
 
-Alternatively, visit https://marclignarius.io/ChatApp to see the live version of the application. 
+Alternatively, visit https://fierce-reef-65258.herokuapp.com/ to see the live version of the application. 
 
 ## Known Bugs
 There are no known bugs as of last release.
